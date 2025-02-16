@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_glass_glow_snow"
+	//"$bumpmap" "shystudios/hgs/architecture/hgs_glass_snow_nrm"
+	"$surfaceprop" "Glass"
+	"$selfillum"	"1"
+}

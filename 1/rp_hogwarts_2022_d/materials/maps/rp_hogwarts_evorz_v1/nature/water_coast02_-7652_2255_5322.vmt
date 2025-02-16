@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_COAST02.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c-7652_2255_5322"
+		"Proxies"
+		{
+		}
+	}
+}

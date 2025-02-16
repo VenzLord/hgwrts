@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/ar_chess/black"
+	"$bumpmap" "models/ar_chess/turm_nm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .3 .3]"
+}

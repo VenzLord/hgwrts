@@ -1,0 +1,14 @@
+"Refract"
+{
+	"$basetexture" "honse/gh/glass/hpglass"
+	"$normalmap" "honse/gh/glass/hpglass_NRM"
+
+	"$bluramount" 1
+
+	"$refractamount" ".90"
+	"$refracttint" "[0.7 0.5 0.1]"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint"  "[.7 .5 .1]"
+	"$REFRACTTINTTEXTURE" "/honse/gh/glass/hpglass"
+}

@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+ $baseTexture "models/props_food_drink/glass_drinks-1"
+
+ $translucent 1
+}

@@ -1,0 +1,7 @@
+lightmappedGeneric
+{
+$baseTexture "de_aztec/stairsfake01"
+$surfaceprop rock
+
+"%keywords" cstrike
+}

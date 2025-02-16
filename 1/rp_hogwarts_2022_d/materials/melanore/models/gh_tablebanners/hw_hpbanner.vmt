@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "honse/decals/hw_hpbanner"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

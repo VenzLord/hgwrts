@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"shystudios/hgs/architecture/hgs_roof"
+	"$bumpmap"		"shystudios/hgs/architecture/hgs_roof_ssbump"
+	"$surfaceprop"		"Brick"
+	"$ssbump"		"1"
+	"$SSBumpMathFix"		"1"
+	"%keywords"		"hgs"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kl/kl_council_chair"
+	"$surfaceprop" "Wood_Plank"
+	"$bumpmap" "models/kl/kl_council_chair_bump"
+	"$normalmap" "models/kl/kl_council_chair_bump"
+}

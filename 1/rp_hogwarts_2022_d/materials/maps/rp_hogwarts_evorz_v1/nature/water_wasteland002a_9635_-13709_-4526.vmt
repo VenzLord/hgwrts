@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_WASTELAND002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c9635_-13709_-4526"
+		"Proxies"
+		{
+		}
+	}
+}

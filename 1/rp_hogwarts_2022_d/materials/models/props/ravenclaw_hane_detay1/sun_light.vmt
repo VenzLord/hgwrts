@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$model 1 	"$basetexture" "steinman/poudlard/sun_light"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+}

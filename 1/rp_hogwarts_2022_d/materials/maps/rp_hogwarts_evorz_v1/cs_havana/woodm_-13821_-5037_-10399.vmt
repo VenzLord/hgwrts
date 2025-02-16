@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CS_HAVANA/WOODM.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c-13821_-5037_-10399"
+	}
+}

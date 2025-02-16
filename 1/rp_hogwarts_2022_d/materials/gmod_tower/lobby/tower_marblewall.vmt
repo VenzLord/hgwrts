@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmod_tower/lobby/tower_marblewall"
+
+	//"$bumpmap" "gmod_tower/lobby/tower_marbleblack_normal"
+	"$surfaceprop" "tile"
+	"$envmap" "env_cubemap"
+	"$basepalphaenvmapmask" 1
+	"$envmapcontrast" .75
+	"$envmapsaturation" .9
+	"$envmaptint" "[ 1 1 1 ]"
+	"%keywords" "pixeltail pt lobby"
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "spg/dumbledoreoffice/room/46"
+		"$bumpmap"	"dev\flat_normal"
+	"$phongalbedotint" 			"1"
+	$phongexponent 10
+	"$phong" 					"1"
+	"$phongboost"				".2"
+	"$phongfresnelranges"		"[.2 1 1]"
+	$nocull 1
+}

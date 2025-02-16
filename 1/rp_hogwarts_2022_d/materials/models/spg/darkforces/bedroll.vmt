@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spg/darkforces/bedroll"
+	"$bumpmap" "models/spg/darkforces/bedroll_n"
+}

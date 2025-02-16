@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/aoc_objects/cauldron"
+	"$normalmap" "models/aoc_objects/cauldron_norm"
+	"$surfaceprop" "metal"
+}

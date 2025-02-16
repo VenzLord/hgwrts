@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "models/spg/hogwartsexpress/wheels_d"
+	$bumpmap "models/spg/hogwartsexpress/wheels_n"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+}

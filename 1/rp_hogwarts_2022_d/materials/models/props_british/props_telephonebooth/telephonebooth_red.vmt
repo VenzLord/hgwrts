@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_british/props_telephonebooth/Telephonebooth_Red"
+	"$bumpmap" "models/props_british/props_telephonebooth/Telephonebooth_NM"
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[2 1 5]"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "shystudios/hogwarts/hw_fancywood"
+	//"$envmap" "env_cubemap"
+	"$surfaceprop" "wood_solid"
+	//"$envmaptint"	"[0.2 0.2 0.2]"
+}

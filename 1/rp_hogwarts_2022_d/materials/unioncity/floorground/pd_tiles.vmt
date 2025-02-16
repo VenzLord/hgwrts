@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity/floorground/pd_tiles"
+	$bumpmap "unioncity/floorground/pd_tiles_n"
+	$color "[.75 .85 1.15]"
+	$surfaceprop tile
+
+}

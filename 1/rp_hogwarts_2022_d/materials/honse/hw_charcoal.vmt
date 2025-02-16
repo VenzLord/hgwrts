@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "honse/hw_charcoal"
+	"$surfaceprop" "Gravel"
+	"$translucent" 1
+}

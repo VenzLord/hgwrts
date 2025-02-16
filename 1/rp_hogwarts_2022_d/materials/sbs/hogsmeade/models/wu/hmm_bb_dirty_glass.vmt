@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_bb_dirty_glass"
+	"$translucent" 1
+}

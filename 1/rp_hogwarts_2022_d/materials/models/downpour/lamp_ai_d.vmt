@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\downpour/lamp_ai_d"
+	"$bumpmap" "models\downpour/lamp_ai_n"
+	"$normalmapalphaenvmapmask" 1	
+
+	"$phong" "1"	
+	"$phongexponent" "26"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[2 2 2]"
+
+}

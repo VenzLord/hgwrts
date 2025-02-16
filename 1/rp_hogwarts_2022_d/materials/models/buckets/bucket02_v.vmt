@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	
+"$baseTexture" "models\buckets\bucket02_v"
+"$surfaceprop" "wood"
+"$bumpmap" "models\buckets\bucket02_v_normal"
+}

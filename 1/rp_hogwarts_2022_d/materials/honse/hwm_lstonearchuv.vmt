@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/hwm_lstonearchuv"
+	"$bumpmap" "honse/hwm_lstonearchuv_NRM"
+	"$surfaceprop" "Brick"
+}

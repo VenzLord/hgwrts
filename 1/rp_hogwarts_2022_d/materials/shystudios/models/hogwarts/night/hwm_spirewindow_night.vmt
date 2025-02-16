@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/models/hogwarts/night/hwm_spirewindow_NIGHT"
+	"$surfaceprop" "Brick"
+	"$selfillum" 1
+}

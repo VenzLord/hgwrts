@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "melanore/flags/flag_hog"
+	"$surfaceprop" "carpet"
+	"$nodecal" 1
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "highdef/skyrim/architecture/whiterun/wrwoodbranchwall01"
+	"$bumpmap" "highdef/skyrim/architecture/whiterun/wrwoodbranchwall01_ssbump"
+	"$surfaceprop" "Wood_Solid"
+	"%keywords" "skyrim"
+	"$ssbump" 1
+}

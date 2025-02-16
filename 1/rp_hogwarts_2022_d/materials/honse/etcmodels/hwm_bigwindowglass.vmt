@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/gh/glass/bigwindowglass"
+	"$normalmap" "honse/gh/glass/bigwindowglass_NRM"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+	//"$basealphaenvmapmask" 1
+}

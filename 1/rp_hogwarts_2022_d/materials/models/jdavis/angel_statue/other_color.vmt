@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\jdavis\Angel_Statue\other_color"
+	"$surfaceprop" "stone"
+	"$model" 1
+	"$bumpmap" "models\jdavis\Angel_Statue\other_nrm"
+
+	$phong 1
+}

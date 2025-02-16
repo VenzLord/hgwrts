@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "sbs/hogsmeade/wu/hgs_ov_floor_rough"
+	"$bumpmap" "sbs/hogsmeade/wu/hgs_ov_floor_nrm"
+	"$surfaceprop" "wood_plank"
+	"%keywords" "hgs"
+}

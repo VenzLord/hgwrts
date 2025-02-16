@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/candle/candle"
+	"$selfillum" 1
+	"$selfillummask" "models/candle/candle_mask"
+	"$nodecal" 1
+}

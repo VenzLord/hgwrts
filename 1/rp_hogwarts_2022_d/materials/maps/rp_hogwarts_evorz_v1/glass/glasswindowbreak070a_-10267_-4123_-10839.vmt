@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c-10267_-4123_-10839"
+	}
+}

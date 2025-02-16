@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/models/hogwarts/fancypiltop"
+	"$surfaceprop" "Porcelain"
+	"$bumpmap" "shystudios/models/hogwarts/fancypiltop_normal2"
+	"$envmap"			"env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+}

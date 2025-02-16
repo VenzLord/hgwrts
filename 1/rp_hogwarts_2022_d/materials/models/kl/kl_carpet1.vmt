@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kl/kl_carpet1"
+	"$alphatest" 1
+	"$bumpmap" "models/kl/kl_carpet1NRM"
+	"$normalmap" "models/kl/kl_carpet1NRM"
+}

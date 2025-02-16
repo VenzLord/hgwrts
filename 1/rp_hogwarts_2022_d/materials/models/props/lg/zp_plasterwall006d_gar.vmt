@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "zpcustommaterials/walls/zp_plasterwall006d_gar"
+        "$bumpmap" "zpcustommaterials/walls/zp_plasterwall006d_normal_gar"
+	"$surfaceprop" "plaster"
+        "%keywords" "zp, deadblock"
+}

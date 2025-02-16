@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BR_rolling_stock/br_mk1/br_mk1_int_wall"
+	"$basemapalphaphongmask" "1"
+	"$phong" "1"
+	"$phongexponent" "3"
+	"$phongboost" ".1"	
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+	
+}

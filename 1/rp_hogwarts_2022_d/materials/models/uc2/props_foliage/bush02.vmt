@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/uc2/props_foliage/bush02"
+	//$bumpmap "models/uc2/props_foliage/bush02_n"
+	$alphatest 1
+	$alphatestreference .6
+	$nocull 1
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NATURE/ROCKWALL015A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c676_4684_6908"
+	}
+}

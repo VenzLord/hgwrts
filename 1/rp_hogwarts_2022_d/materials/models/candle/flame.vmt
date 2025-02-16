@@ -1,0 +1,31 @@
+"Unlitgeneric"
+{
+	
+"$baseTexture" "models/candle/flame"
+"$surfaceprop" "Default"
+"$nodecal" 1
+"$translucent" 1
+"$additive" 1s
+"$nocull" 1
+$selfillum 1
+$selfillummask "models/candle/candle_si"
+
+	$emissiveblendenabled 0
+   	$emissiveBlendBaseTexture "models/candle/candle_si"
+    	$emissiveblendflowtexture "models/candle/flame"
+    	$emissiveblendscrollvector "[0 0]"
+    	$emissiveblendstrength 1
+    	$emissiveblendtexture "models/candle/flame"
+
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "9"
+}
+
+}
+	
+}

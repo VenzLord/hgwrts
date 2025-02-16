@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/L02_bed/L02_bed"
+	"$surfaceprop" "Wood"
+	
+
+	"$bumpmap" "models/L02_bed/L02_bed_normal"
+	
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+
+	//"$envmapcontrast" 0
+	//"$envmapsaturation" 1	
+	//"$envmaptint" "[1 1 1]"
+}

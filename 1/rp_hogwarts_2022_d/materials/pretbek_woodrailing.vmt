@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pretbek_woodrailing"
+	"$surfaceprop" "Wood_Box"
+	"$translucent" 1
+	"$vertexalpha" 1
+}

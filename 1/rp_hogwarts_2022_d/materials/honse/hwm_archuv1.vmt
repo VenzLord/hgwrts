@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/hwm_archuv1"
+	"$bumpmap" "honse/hwm_archuv1_NRM"
+	"$surfaceprop" "Brick"
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

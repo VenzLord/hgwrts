@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\hogwarts\99e89d2a_dds"
+	"$alphatest" "1"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "0.2"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 .95 .95]"
+	"$phongfresnelranges"	"[0.5 6 15]"
+
+	"$ambientocclusion" "1"
+	"$detail" "3D/Owl/detail_feather"
+	"$detailscale" "3"
+	"$detailblendfactor" "3"
+	"$detailblendmode" "0"
+}

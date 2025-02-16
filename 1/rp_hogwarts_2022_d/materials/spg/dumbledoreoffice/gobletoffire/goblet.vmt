@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "spg/dumbledoreoffice/gobletoffire/goblet"
+	"$bumpmap" "spg/dumbledoreoffice/gobletoffire/goblet_n"
+}

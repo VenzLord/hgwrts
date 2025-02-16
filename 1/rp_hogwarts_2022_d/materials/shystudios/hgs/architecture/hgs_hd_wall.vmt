@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_hd_wall"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_hd_wall_nrm"
+	"$surfaceprop" "Concrete"
+	"$reflectivity"	 "[.3 .3 .3]"
+	"%keywords" "hgs"
+}

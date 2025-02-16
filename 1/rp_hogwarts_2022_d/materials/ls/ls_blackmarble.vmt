@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "ls/ls_blackmarble"
+    "$surfaceprop" "brick"
+    "$bumpmap" "ls/ls_blackmarble_normal"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[.2 .2 .2]"
+    "%keywords" "TAoC"
+}

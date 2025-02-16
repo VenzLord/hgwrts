@@ -1,0 +1,20 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_roof"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_roof_ssbump"
+	"$basetexture2" "shystudios/hgs/nature/snow_soft"
+	"$bumpmap2" "shystudios/hgs/nature/snow_soft_ssbump"
+	"$blendmodulatetexture" "shystudios/hgs/architecture/hgs_roof_mod_v2"
+	"$surfaceprop" "Brick"
+	"$surfaceprop2" "Snow"
+	"$ssbump"		1
+	"$SSBumpMathFix"		1
+	//"$reflectivity"	 "[.2 .2 .2]"
+	"%keywords" "hgs"
+	//"$detail" "shystudios/hgs/detail/small_perlin"
+	//"$detailscale" 5
+	//"$detailblendmode" 0
+	//"$detailblendfactor" 0.5
+//	"$envmap"	"env_cubemap"
+//	"$normalmapalphaenvmapmask"	1
+}

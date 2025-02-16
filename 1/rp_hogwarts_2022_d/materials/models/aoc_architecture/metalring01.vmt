@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_objects/metalring01"
+	"$bumpmap" "models\aoc_objects/metalring01_nm"
+}

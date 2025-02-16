@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/wu/hgs_pub_ornatewall"
+	"$bumpmap" "sbs/hogsmeade/wu/hgs_pub_ornatewall_nrm"
+	"$surfaceprop" "Wood_Furniture"
+	"%keywords" "hgs"
+}

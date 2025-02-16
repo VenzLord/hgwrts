@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/uc2/props_foliage/interiorplant06"
+	$alphatest 1
+	$alphatestreference 0.6
+	$nocull 1
+}
+
+

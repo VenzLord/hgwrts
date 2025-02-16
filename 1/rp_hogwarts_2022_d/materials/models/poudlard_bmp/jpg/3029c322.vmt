@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\poudlard_bmp\jpg\3029c322"
+     "$bumpmap" "models\poudlard_bmp\jpg\ecusson_bump"
+	"$model" 1
+	$cloakpassenabled 1
+	$cloakfactor 1
+}

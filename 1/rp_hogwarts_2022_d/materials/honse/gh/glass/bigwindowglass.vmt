@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "honse/gh/glass/bigwindowglass"
+	"$normalmap" "honse/gh/glass/bigwindowglass_NRM"
+	//"$bluramount" "0.4"
+	//"$refractamount" ".90"
+	//"$refracttint" "[0.5 0.5 0.5]"
+	"$envmap" "env_cubemap"
+	//"$REFRACTTINTTEXTURE" "honse/gh/glass/bigwindowglass"
+	"$translucent" 1
+}

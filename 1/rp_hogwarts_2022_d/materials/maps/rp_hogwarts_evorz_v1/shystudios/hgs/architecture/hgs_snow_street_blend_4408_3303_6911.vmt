@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SHYSTUDIOS/HGS/ARCHITECTURE/HGS_SNOW_STREET_BLEND.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c4408_3303_6911"
+	}
+}

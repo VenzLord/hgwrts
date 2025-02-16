@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_sbs_day/c-9371_-5078_-10544"
+		"$crackmaterial"		"maps/rp_hogwarts_sbs_day/glass/glasswindowbreak070b_-9371_-5078_-10544"
+	}
+}

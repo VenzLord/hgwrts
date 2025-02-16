@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/citadel/wand_heroicwand32/T_HeroicWand32_D"
+	"$bumpmap" "models/citadel/wand_heroicwand32/T_HeroicWand32_N"
+
+	"$phong" "1"
+		
+	"$phongexponent" "0"
+	"$phongalbedotint" "1"
+	"$phongboost" "0" 
+	"$phongfresnelranges"	"[10 12 30]"
+}

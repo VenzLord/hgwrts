@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/models/hogwarts/hwm_potdome"
+	"$surfaceprop" "Porcelain"
+	"$envmap"			"env_cubemap"
+	"$envmapmask"			"shystudios/models/hogwarts/hwm_potdome_envmask"
+}

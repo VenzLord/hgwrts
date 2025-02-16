@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_rc_stars"
+
+
+	"Proxies"
+
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+		
+			"texturescrollrate" .01
+			
+			"texturescrollangle" 0
+		}
+
+	}
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_architecture/crusader_fabric_stone"
+	"$bumpmap" "models\aoc_architecture/crusader_fabric_stone_norm"
+}

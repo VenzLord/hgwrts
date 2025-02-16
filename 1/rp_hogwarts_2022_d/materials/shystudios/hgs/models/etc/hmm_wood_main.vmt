@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_wood_main"
+	//"$bumpmap" "shystudios/hgs/architecture/hgs_wood_main_nrm"
+	"$surfaceprop" "Wood_Solid"
+	"%keywords" "hgs,wood"
+}

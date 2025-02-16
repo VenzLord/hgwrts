@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_hh_woodtable"
+	"$bumpmap" "sbs/hogsmeade/models/wu/hmm_hh_woodtable_nrm"
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_white_old_wall"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_white_old_wall_nrm"
+	"$surfaceprop" "Brick"
+	"%keywords" "hgs"
+	"$reflectivity"	 "[.3 .3 .3]"
+}

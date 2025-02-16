@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_arena/Target01"
+	"$bumpmap" "models\aoc_arena/Target02_norm"
+}

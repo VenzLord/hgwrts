@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_station_stone"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_station_stone_nrm"
+	"$surfaceprop" "Brick"
+	"%keywords" "hgs"
+}

@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture"   		"melanore\grounds\grass"
+	"$basetexture2" 		"melanore\grounds\grass_dark"
+	"$surfaceprop"		"grass"
+	"$surfaceprop2"		"grass"
+	"$blendmodulatetexture"	"melanore\grounds\blend_base"
+	"%tooltexture"		 "melanore\grounds\bl_grass_dark"
+
+}

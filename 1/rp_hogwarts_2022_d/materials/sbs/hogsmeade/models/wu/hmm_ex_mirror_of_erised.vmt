@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_ex_mirror_of_erised"
+	"$bumpmap" "sbs/hogsmeade/models/wu/hmm_ex_mirror_of_erised_nrm"
+}

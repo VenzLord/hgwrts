@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "models/spg/triwizardcup/stone_d"
+	$bumpmap "models/spg/triwizardcup/stone_n"
+
+	$alphatest 1
+	$alphatestreference 0.1
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.36 0.37 0.37]"
+	$phongexponent 13
+	$phongboost 0.81
+
+	$allowalphatocoverage 1
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_hd_trim"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_hd_trim_nrm"
+	"$surfaceprop" "Wood_Plank"
+	"%keywords" "hgs"
+}

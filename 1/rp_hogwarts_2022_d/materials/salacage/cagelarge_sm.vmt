@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "salacage/cagelarge_sm"
+	"$alphatest" 1
+	"$nocull" 1
+}

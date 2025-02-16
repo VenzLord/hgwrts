@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_gibs/skeleton_body"
+	"$bumpmap" "models\aoc_gibs/skeleton_body_nm"
+}

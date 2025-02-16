@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sablier/socle"
+	$no_draw 1
+}

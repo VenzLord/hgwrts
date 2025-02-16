@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "maxofs2d/grass"
+	"$color2"      "[1.0 0.9 1.1]"
+	
+
+	
+	"$detail"             "maxofs2d/terrain_detail"
+	"$detailscale"        "0.002"
+	"$detailblendfactor"  "0.25"
+	"$detailblendmode"    "0"
+	
+	"$surfaceprop" "grass"
+}

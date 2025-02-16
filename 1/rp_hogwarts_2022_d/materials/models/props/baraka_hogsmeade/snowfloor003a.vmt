@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "nature/snowfloor003a"
+	"$surfaceprop" "snow"
+}

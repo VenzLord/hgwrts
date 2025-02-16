@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/station/hmm_glowing_curtain"
+	"$surfaceprop" "Default"
+}

@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 		"melanore\grounds\rocks3"
+	"$surfaceprop"		"rock"
+	"%tooltexture"		 "melanore\grounds\bl_grassdark_rocks"
+
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/sshack/hmm_ss_cloth"
+	"$nocull" 1
+}

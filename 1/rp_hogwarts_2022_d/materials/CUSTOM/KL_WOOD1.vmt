@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom/kl_wood1"
+	"$surfaceprop" "Wood_Panel"
+	"$bumpmap" "custom/kl_wood1NRM"
+	"$normalmap" "custom/kl_wood1NRM"
+}
+

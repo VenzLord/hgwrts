@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "mahkeme/mat1"
+	"$bumpmap" "mahkeme/mat1_n" 
+	"$envmap" "mahkeme/mat_env1"
+	"$envmaptint" "[1.5 1.2 1.5]"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\jdavis\Angel_Statue\mound_color"
+	"$surfaceprop" "concrete"
+	"$model" 1
+	"$bumpmap" "models\jdavis\Angel_Statue\mound_nrm"
+}

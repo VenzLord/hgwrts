@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "honse/hwm_cutecobble"
+	"$bumpmap" "honse/hwm_cutecobble_NRM"
+	"$surfaceprop" "Rock"
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

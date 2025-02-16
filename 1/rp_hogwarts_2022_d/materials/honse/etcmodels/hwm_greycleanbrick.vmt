@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/hw_greycleanbrick"
+	"$surfaceprop" "Rock"
+	//"$envmap" "env_cubemap"
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

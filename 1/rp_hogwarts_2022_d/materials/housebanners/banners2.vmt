@@ -1,0 +1,8 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "housebanners/banners2"
+	"$bumpmap" "housebanners/banners2_n"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+}
+

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/3bs/hmm_lamp_black"
+	$phong 1
+	$basemapalphaphongmask	1
+	$phongexponent	8
+	$phongboost		1.0
+	$phongfresnelranges	"[2 4 8]"
+	//$envmap		"env_cubemap"
+	//$basealphaenvmapmask	1
+}

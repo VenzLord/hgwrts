@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/fronts/hmm_glass"
+	"$surfaceprop" "Glass"
+	"$translucent" 1
+	"$model" 1
+	"$nocull"	1
+}

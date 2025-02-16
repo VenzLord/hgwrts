@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/HONSE/GH/GLASS/BIGWINDOWGLASS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_community/c-11778_-2550_-9903"
+	}
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/wu/hgs_ov_floor_rough"
+	"$bumpmap" "sbs/hogsmeade/wu/hgs_ov_floor_nrm"
+	"$surfaceprop" "Wood_Plank"
+	"%keywords" "hgs"
+}

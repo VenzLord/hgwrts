@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "custom/kl_wood1"
+	"$surfaceprop" "wood_panel"
+	"$bumpmap" "custom/kl_wood1nrm"
+	"$normalmap" "custom/kl_wood1nrm"
+}
+

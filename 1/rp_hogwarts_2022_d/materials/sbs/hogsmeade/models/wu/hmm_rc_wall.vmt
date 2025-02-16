@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/wu/hgs_rc_wall"
+	"$surfaceprop" "Brick"
+}

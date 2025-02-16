@@ -1,0 +1,14 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/nature/snow_soft"
+//	"$bumpmap" "shystudios/hgs/nature/snow_soft_ssbump"
+	"$surfaceprop" "Snow"
+	"$ssbump"		1
+	//"$SSBumpMathFix"		1
+	"$reflectivity"	 "[.9 .9 .9]"
+	"$model"	1
+	"$detail" "shystudios/hgs/detail/small_perlin"
+	"$detailscale" 5
+	"$detailblendmode" 0
+	"$detailblendfactor" 0.5
+}

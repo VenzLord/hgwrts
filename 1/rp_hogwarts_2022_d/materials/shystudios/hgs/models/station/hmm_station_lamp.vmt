@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/station/hmm_station_lamp"
+	"$bumpmap" "shystudios/hgs/models/station/hmm_station_lamp_nrm"
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "honse/gh/hw_ghtrim"
+	"$surfaceprop" "Wood_Solid"
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

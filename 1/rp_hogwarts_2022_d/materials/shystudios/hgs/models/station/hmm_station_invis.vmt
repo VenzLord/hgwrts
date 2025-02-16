@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/tools/invis"
+	"$translucent"	"1"
+}

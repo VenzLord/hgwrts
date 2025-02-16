@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "honse/walltorch/unlitowy"
+	"$surfaceprop" "Glass"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NATURE/GRAVELFLOOR002B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c5537_-10060_7040"
+	}
+}

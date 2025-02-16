@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/wu/hgs_rc_wall"
+	"$bumpmap" "sbs/hogsmeade/wu/hgs_rc_wall_nrm"
+	"$surfaceprop" "Brick"
+	"%keywords" "hgs"
+}

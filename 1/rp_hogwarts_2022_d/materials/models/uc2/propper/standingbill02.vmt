@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "unioncity2/miscellaneous/standingbill02"
+	
+	$selfillum 1
+	$selfillumtint "[2.1 1.9 1.5]"
+	
+	$surfaceprop wood
+}

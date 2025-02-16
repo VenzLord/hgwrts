@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/spg/hogwartsexpress/glass_d"
+
+	$translucent 1
+	$nocull 1
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/hwm_marbletx2"
+	$detail detail\dt_smooth1
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

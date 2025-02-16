@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture "models/br_rolling_stock/br_mk1/sk_int"
+
+	$detail "models/br_rolling_stock/br_mk1/felt_detail"
+	$detailblendmode 4
+	$detailscale 50
+	$detailblendfactor 0.16
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.5 0.5]"
+	$phongexponent 3
+	$phongboost 0.1
+	$basemapalphaphongmask 1
+
+	$selfillum 1
+	$selfillummask "models/br_rolling_stock/br_mk1/sk_int_si"
+}

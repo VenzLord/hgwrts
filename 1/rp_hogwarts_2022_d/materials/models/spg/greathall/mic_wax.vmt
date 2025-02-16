@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spg/greathall/mic_wax"
+	"$bumpmap" "models/spg/greathall/norm"
+	"$phongalbedotint" 			"1"
+	$phongexponent 10
+	"$phong" 					"1"
+	"$phongboost"				".2"
+	"$phongfresnelranges"		"[.2 1 1]"
+	$nocull 1
+	$alphatest 1
+	$allowalphatocoverage 1
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogwarts/models/wu/hwm_deatheaterdummy"
+	"$bumpmap" "sbs/hogwarts/models/wu/hwm_deatheaterdummy_nrm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[ 0.3 0.3 0.3 ]"
+	"$halflambert" 1
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "spg/dumbledoreoffice/room/bulb"
+		"$bumpmap"	"dev\flat_normal"
+$color2 "[3 2 .9]"
+	$additive 1
+}

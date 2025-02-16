@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\poudlard_bmp\jpg\8dfacde2"
+	$bumpmap models\poudlard_bmp\jpg\439b3f7b_bump
+	//$ssbump 1
+	$detail models\props\de_nuke\hr_nuke\nuke_concrete_barrier\nuke_concrete_block_detail
+	$model 1
+	//$nodiffusebumplighting 1
+}

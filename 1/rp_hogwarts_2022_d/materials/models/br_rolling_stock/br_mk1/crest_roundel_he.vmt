@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/br_rolling_stock/br_mk1/crest_roundel_he"
+
+	$alphatest 1
+	$alphatestreference 1
+}

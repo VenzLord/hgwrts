@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SHYSTUDIOS/HGS/ARCHITECTURE/HGS_HD_FLOORTILE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c208_2484_7038"
+	}
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hogwarts/hw_fancywood"
+	//"$envmap" "env_cubemap"
+	"$surfaceprop" "Wood_Solid"
+	//"$envmaptint"	"[0.2 0.2 0.2]"
+}

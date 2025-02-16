@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "FACE/FACE"
+	"$nolod" 1
+"$vertexalpha" 1
+"$vertexcolor" 1
+}

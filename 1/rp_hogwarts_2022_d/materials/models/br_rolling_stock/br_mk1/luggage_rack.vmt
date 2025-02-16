@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BR_rolling_stock/br_mk1/luggage_rack"
+
+	"$translucent" 1
+
+
+}

@@ -1,0 +1,14 @@
+"LightMappedGeneric"
+{
+"$baseTexture" "galaxy/tablo"
+"$surfaceprop" "Default"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "10"
+}
+}
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\wilderness/RoomTable"
+	"$bumpmap" "models/wilderness/RoomTable_normal"
+      //  "$envmap" "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	 $phong 1
+	$phongexponent 8
+	$phongboost 2
+	$phongfresnelranges "[1 3 8]" 
+}

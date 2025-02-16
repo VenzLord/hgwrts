@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity2/walls/wallpaper03"
+	$surfaceprop concrete
+}

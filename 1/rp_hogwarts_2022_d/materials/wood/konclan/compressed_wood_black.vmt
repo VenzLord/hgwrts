@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"wood/konclan/compressed_wood_black"
+	"$surfaceprop" "wood_plank"
+	"$detail" "detail/dt_wood1"
+
+}

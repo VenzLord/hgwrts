@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "ax/tile/tile_marble_jade"
+	"$bumpmap" "ax/tile/tile_marble_jade_bump"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "tile"
+	"%keywords" "joebloom tile floor"
+	"$envmapcontrast" .5
+	"$envmapsaturation" 1
+}

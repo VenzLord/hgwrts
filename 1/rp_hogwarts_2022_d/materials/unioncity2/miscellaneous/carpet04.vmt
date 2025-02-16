@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "unioncity2/miscellaneous/carpet04"
+	
+	$surfaceprop dirt
+	$translucent 1
+}

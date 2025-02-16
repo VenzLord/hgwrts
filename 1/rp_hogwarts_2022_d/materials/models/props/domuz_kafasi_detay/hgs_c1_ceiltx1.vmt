@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "shystudios/models/hogwarts/etc/hwm_c1_ceiltx1"
+	"$bumpmap" "shystudios/models/hogwarts/etc/hwm_c1_ceiltx1_nrm"
+	"$surfaceprop" "wood_panel"
+	"%keywords" "hgs"
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "honse/gh/hw_ghybrick"
+	"$surfaceprop" "concrete"
+}

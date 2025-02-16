@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\aoc_siege/mantlet"
+	"$bumpmap" "models\aoc_siege/mantlet_norm"
+}

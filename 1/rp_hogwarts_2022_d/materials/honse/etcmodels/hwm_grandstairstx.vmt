@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/etcmodels/hwm_grandstairstx"
+	"$surfaceprop" "Concrete"
+	$detail detail\dt_smooth1
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

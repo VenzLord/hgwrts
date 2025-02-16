@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_tea_wall"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_tea_wall_nrm"
+	"$surfaceprop" "Wood_Panel"
+	"%keywords" "hgs"
+}

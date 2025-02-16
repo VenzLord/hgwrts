@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "models/br_rolling_stock/br_mk1/passenger_compartment"
+	$bumpmap "models/br_rolling_stock/br_mk1/passenger_compartment_n"
+
+	$detail "models/br_rolling_stock/br_mk1/felt_detail"
+	$detailscale 44
+	$detailblendfactor 0.83
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.06 0.06 0.06]"
+	$phongexponent 1
+	$phongboost 0.1
+}

@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\objects\m_ortel\book01"
+	//"$bumpmap" "models\objects\m_ortel\Arrow_Trap01_n"       
+	"$surfaceprop" "paper"
+	"$model" 1
+}

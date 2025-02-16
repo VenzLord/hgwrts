@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "honse/hw_lightstonetrim"
+	"$surfaceprop" "concrete"
+	$detail detail\dt_smooth1
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

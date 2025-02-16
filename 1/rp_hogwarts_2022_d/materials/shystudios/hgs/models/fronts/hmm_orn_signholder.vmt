@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/fronts/hmm_orn_signholder"
+	"$alphatest" 1
+	"$nocull"	1
+}

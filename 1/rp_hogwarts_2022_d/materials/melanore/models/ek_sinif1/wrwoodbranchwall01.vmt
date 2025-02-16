@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "highdef/skyrim/architecture/whiterun/wrwoodbranchwall01"
+	"$bumpmap" "highdef/skyrim/architecture/whiterun/wrwoodbranchwall01_ssbump"
+	"$surfaceprop" "wood_solid"
+	"%keywords" "skyrim"
+}

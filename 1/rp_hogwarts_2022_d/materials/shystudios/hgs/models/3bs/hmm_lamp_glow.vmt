@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/3bs/hmm_lamp_glow"
+	"$selfillum" 1
+}

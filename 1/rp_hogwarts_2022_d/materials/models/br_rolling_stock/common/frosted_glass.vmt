@@ -1,0 +1,9 @@
+Refract
+{
+	$refract 1
+	$normalmap "models/br_rolling_stock/common/fg_n"
+	$refracttint "[0.50 0.50 0.50]"
+	$refractamount 0.35
+
+	$model 1
+}

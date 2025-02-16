@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_mainstreet_v2"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_mainstreet_v2_ssbump"
+	"$basetexture2" "shystudios/hgs/nature/hgs_snow2"
+	"$bumpmap2" "shystudios/hgs/nature/hgs_snow2_ssbump"
+	"$blendmodulatetexture" "shystudios/hgs/nature/dark_dirt_modulatex2"
+	"$surfaceprop" "Brick"
+	"$surfaceprop2" "Snow"
+	"$ssbump"		1
+	"$SSBumpMathFix"		1
+	"$reflectivity"	 "[.7 .7 .7]"
+	"%keywords" "hgs"
+	"$envmap"	"env_cubemap"
+	"$normalmapalphaenvmapmask"	1
+	$seamless_scale 0.00390625
+}

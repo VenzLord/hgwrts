@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/uc2/props_street/streetprops"
+	$bumpmap "models/uc2/props_street/streetprops_n"
+	
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[ .1 .1 .1 ]"
+    $phong "1"
+    $phongtint "[.25 .25 .25]"
+    $phongexponent "200"
+    $phongboost "2"
+    $phongfresnelranges "[1 1 1]"
+}

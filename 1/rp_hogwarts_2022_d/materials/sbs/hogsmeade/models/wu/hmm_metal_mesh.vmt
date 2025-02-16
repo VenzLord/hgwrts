@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_metal_mesh"
+	"$surfaceprop" "MetalGrate"
+	"$alphatest" 1
+	"$translucent" 1
+	"$nocull" 1
+}

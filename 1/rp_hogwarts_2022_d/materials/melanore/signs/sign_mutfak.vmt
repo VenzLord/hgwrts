@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "melanore\signs\sign_mutfak"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$decal" 1
+	"$decalscale" "0.25"
+}

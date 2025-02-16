@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/pots/hwm_l_yellow"
+	"$translucent" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_extra_chain"
+	"$alphatest" 1
+	"$nocull" 1
+	"$translucent" 1
+}

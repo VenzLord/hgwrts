@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GMOD_TOWER/LOBBY/TOWER_MARBLEWALL.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c-7396_-6047_-10054"
+	}
+}

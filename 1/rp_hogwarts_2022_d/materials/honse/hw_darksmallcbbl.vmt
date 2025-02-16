@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "honse/hw_darksmallcbbl"
+	"$bumpmap" "honse/hw_darksmallcbbl_NRM"
+	//"$envmapmask" "honse/hw_darksmallcbbl_SPEC"
+	"$surfaceprop" "Rock"
+	//"$envmap" "env_cubemap"
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

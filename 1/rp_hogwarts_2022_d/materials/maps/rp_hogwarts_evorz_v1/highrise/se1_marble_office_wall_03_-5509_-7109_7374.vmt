@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/HIGHRISE/SE1_MARBLE_OFFICE_WALL_03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c-5509_-7109_7374"
+	}
+}

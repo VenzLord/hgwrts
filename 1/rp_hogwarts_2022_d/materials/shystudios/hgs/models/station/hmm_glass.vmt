@@ -1,0 +1,5 @@
+"patch"
+{
+	include "materials\shystudios\hgs\models\fronts\hmm_glass.vmt"
+
+}

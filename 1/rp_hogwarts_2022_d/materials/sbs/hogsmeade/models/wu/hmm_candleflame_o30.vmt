@@ -1,0 +1,32 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_candleflame"
+	//"$translucent" 1
+	"$additive"	"1"
+	//"$nocull"	"1"
+	"$frameoffset"	"30"
+	"$frametmp"	"0"
+	"$frametmp2"	"0"
+	"proxies"
+	{
+		"AnimatedOffsetTexture"
+			{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frametmp"
+			"animatedTextureFrameRate" "30"
+			}
+		"Add"
+			{
+			"srcVar1"	"$frameoffset"
+			"srcVar2"	"$frametmp"
+			"resultVar"	"$frametmp2"
+			}
+		"WrapMinMax"
+			{
+			"srcVar1"	"$frametmp2"
+			"minVal"	"0"
+			"maxVal"	"71"
+			"resultVar"	"$frame"
+			}
+	}
+}

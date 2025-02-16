@@ -1,0 +1,9 @@
+"Refract"
+{
+	"$refracttinttexture" "sbs/hogsmeade/models/wu/hmm_extra_lens"
+	"$normalmap" "sbs/hogsmeade/models/wu/hmm_extra_lens_nrm"
+	"$dudvmap" "sbs/hogsmeade/models/wu/hmm_extra_lens_nrm"
+	"$model"	"1"
+	$refractamount .1
+	$refracttint "[3 5 5]"
+}

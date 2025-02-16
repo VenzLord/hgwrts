@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "honse/hw_lightvertstone"
+	"$surfaceprop" "concrete"
+	$detail detail\noise_detail_01 // e.g. for brickwork, concrete...
+	$detailscale 7.74
+	$detailblendfactor 0.8
+	$detailblendmode 0
+}

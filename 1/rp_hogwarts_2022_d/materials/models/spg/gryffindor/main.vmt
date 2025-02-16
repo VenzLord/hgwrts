@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spg/gryffindor/main"
+	"$bumpmap" "models/spg/gryffindor/main_n"
+	"$phong" "1"
+		
+	"$phongexponent" "0"
+	"$phongalbedotint" "1"
+	"$phongboost" "0" 
+	"$phongfresnelranges"	"[10 12 30]"
+}

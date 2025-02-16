@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hogwarts/night/hw_largebrightbrickwindow_NIGHT_v2"
+	"$surfaceprop" "Brick"
+	"%keywords" "NIGHT"
+	"$selfillum" 1
+}

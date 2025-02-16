@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_gunth_antiquesafe"
+	"$bumpmap" "sbs/hogsmeade/models/wu/hmm_gunth_antiquesafe_nrm"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/MELANORE/WALLS/HOGSMEADE_BRICK.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c5826_-9776_4833"
+	}
+}

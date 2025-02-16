@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/spg/island/trunk/trunk_green"
+	"$bumpmap" "models/spg/island/trunk/trunk_red_n"
+}

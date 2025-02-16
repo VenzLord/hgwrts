@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_dark_metal"
+	"$surfaceprop" "AlienFlesh"
+}

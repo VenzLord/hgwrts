@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "melanore/doors/door_arch_knobl"
+	"$surfaceprop" "wood"
+} 

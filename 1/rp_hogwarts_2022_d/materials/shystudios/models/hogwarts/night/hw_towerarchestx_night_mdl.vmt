@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hogwarts/night/hw_towerarchestx_NIGHT"
+	"$selfillum" 1
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture"	"lg/toitures/toiture1"
+	"$color2" "{150 150 255}"
+	"$surfaceprop" "wood"
+}

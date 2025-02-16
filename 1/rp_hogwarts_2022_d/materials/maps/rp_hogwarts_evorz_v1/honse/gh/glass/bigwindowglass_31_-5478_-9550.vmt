@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/HONSE/GH/GLASS/BIGWINDOWGLASS.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c31_-5478_-9550"
+	}
+}

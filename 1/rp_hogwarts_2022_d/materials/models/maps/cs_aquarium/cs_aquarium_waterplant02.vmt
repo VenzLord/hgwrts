@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/maps/cs_aquarium/cs_aquarium_waterplant02"
+
+	"$nocull" 1
+	"$translucent" "1"	
+}

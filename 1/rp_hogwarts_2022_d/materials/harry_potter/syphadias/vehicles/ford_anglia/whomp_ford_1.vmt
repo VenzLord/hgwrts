@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "harry_potter/syphadias/vehicles/ford_anglia/whomp_ford_1"
+	"$nocull" 1
+}

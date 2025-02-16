@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\poudlard_bmp\jpg\3bc5eeaf"
+	$nocull 1
+	$translucent 1
+	$alphatest 1
+}

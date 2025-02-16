@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"melanore\grounds\grass"
+	"$surfaceprop"		"grass"
+	"%tooltexture"		"melanore\grounds\bl_grass_dark"
+}

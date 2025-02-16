@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "honse/gh/hw_burntmetal"
+	"$surfaceprop" "Metal"
+}

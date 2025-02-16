@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "lg/tissus/tissu1_blanc"
+	"$bumpmap" "lg/tissus/tissu1_blanc_normal"
+	"$color2" "{75 75 220}"
+	"$surfaceprop" "carpet"
+}

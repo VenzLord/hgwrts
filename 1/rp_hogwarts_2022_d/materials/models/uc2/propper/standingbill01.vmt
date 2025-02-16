@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "unioncity2/miscellaneous/standingbill01"
+	
+	$alphatest 1
+	$nocull 1
+	
+	$surfaceprop metal_box
+}

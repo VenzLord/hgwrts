@@ -1,0 +1,11 @@
+ "vertexlitGeneric"
+ {
+	 "$basetexture" "models\objects\m_ortel\chair01"
+	 "$bumpmap" "models\objects\m_ortel\chair01_n"       
+	 "$surfaceprop" "wood"
+	 "$envmap" "models\objects\m_ortel\ep08_cubemap01"
+	 "$envmapcontrast" 1
+	 "$envmaptint" "[0.6 0.6 0.6]"
+	 "$nocull" 1
+	 "$model" 1
+ }

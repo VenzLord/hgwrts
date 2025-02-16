@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "highdef/skyrim/architecture/windhelm/wholdcrackedbrick2"
+	"$bumpmap" "highdef/skyrim/architecture/windhelm/wholdcrackedbrick2_ssbump"
+	"$surfaceprop" "brick"
+	"%keywords" "skyrim"
+	"$envmap" "env_cubemap"
+	"$normapmapalphaenvmapmask" 1
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapcontrast" .6
+	"$envmapsaturation" .1
+}

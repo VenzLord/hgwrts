@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	
+	"$baseTexture"	"models/scrolls/scroll"
+	"$surfaceprop" "stone"
+	"$bumpmap" "models/scrolls/scroll_normal"
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/models/hogwarts/pdoor/hwm_pdoortx"
+	"$bumpmap" "shystudios/models/hogwarts/pdoor/hwm_pdoor_normal"
+}

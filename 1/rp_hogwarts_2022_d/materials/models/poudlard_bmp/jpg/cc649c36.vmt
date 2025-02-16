@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\poudlard_bmp\jpg\cc649c36"
+	$nocull 1
+}

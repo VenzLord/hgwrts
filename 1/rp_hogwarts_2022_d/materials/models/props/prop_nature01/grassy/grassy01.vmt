@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models\props\prop_nature01\grassy\grassy01"
+	"$bumpmap" "models\props\prop_nature01\grassy\grassy01_n"
+	"$surfaceprop" "rock"
+}
+

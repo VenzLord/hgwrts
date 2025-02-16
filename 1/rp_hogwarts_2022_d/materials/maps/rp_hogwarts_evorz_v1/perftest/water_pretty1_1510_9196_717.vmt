@@ -1,0 +1,12 @@
+"patch"
+{
+	"include"		"materials/PERFTEST/WATER_PRETTY1.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c1510_9196_717"
+		"$bottommaterial"		"maps/rp_hogwarts_evorz_v1/perftest/water_pretty1_beneath_1510_9196_717"
+		"Proxies"
+		{
+		}
+	}
+}

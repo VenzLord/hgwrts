@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "spg/dumbledoreoffice/door/door_alpha"
+	$alphatest 1
+}

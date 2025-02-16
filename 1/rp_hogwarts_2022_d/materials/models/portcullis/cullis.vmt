@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\portcullis\cullis"
+	"$model" 1
+	"$surfaceprop" "metal"
+	"$bumpmap" "models\portcullis\cullis_normal"
+}

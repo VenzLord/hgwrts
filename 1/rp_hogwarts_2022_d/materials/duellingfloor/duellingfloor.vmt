@@ -1,0 +1,5 @@
+"Lightmappedgeneric"
+{
+	"$basetexture" "duellingfloor/stage_d"
+	"$bumpmap" "duellingfloor/stage_n"
+}

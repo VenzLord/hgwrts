@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_candleflame"
+	//"$translucent" 1
+	"$additive"	"1"
+	//"$nocull"	"1"
+	"proxies"
+	{
+		"AnimatedOffsetTexture"
+			{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "15"
+			}
+	}
+}

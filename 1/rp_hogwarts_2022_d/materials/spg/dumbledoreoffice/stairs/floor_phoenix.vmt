@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "spg/dumbledoreoffice/stairs/floor_d"
+	$bumpmap "spg/dumbledoreoffice/stairs/floor_n"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.33 0.67 1]"
+	$phongexponent 2
+	$phongboost 2
+}

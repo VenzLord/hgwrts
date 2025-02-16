@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "spg/tapestry/tapestry_d"
+	"$bumpmap" "spg/tapestry/tapestry_n"
+	$alphatest 1
+	$allowalphatocoverage 1
+	$halflambert 1
+}

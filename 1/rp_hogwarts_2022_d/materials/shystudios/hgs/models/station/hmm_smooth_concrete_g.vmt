@@ -1,0 +1,7 @@
+"vertexLitGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_smooth_concrete_g"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_smooth_concrete_nrm"
+	"$surfaceprop" "Concrete"
+	"%keywords" "hgs"
+}

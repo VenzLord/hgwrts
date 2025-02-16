@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"		"melanore\grounds\snowpath"
+	"$surfaceprop"		"dirt"
+	"%tooltexture"		"melanore\grounds\bl_snowpath"
+}

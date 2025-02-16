@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "honse/gh/candleflamea"
+	"$translucent" 1
+	"proxies"
+	{
+		"Animatedtexture"
+			{
+			"Animatedtexturevar" "$Basetexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "10"
+			}
+	}
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "spg/dumbledoreoffice/room/window"
+	"$bumpmap" "spg/dumbledoreoffice/room/window_n"
+}

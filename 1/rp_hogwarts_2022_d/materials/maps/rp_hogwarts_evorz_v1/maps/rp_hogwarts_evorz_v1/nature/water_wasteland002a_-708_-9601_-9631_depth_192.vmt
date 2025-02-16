@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_hogwarts_evorz_v1/nature/water_wasteland002a_-708_-9601_-9631.vmt"
+	"insert"
+	{
+		"$waterdepth"		"192"
+	}
+}

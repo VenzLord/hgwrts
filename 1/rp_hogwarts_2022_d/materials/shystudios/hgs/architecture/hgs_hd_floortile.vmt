@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_hd_floortile"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_hd_floortile_nrm"
+	"$surfaceprop" "tile"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.4 0.4 0.4]"
+	"$reflectivity"	 "[.4 .4 .4]"
+	"%keywords" "hgs"
+}

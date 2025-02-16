@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/etc/hmm_hh_roof_l"
+	//"$bumpmap" "shystudios/hgs/models/etc/hmm_hh_roof_l_nrm"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/SHYSTUDIOS/HGS/NATURE/HGS_SNOW_DIRT_BLEND.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c15233_6690_-10434"
+	}
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+
+{
+	"$basetexture" "highrise\MarbleDarkCyan_01"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "highrise\MarbleDarkCyan_01_normal"
+	"$envmap" "env_cubemap"
+	"$envmapconstrast" "1"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[ .5 .5 .5 ]"
+}

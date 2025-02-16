@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sbs/hogsmeade/models/wu/hmm_hh_stonewall"
+	"$bumpmap" "sbs/hogsmeade/models/wu/hmm_hh_stonewall_nrm"
+	"$surfaceprop" "Rock"
+}

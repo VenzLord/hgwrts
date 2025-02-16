@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models\Skyrim\whiterun\wrtrellisvines01"
+	"$surfaceprop" "popcan"
+	//"$bumpmap" "models\Skyrim\whiterun\wrtrellisvines01_n"
+	//	$rimlight               1
+	//$rimlightexponent       2
+	//$rimlightboost          .2
+}

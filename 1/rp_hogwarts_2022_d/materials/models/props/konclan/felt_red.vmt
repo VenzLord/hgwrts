@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props/konclan/felt_red"
+	"$surfaceprop" "carpet"
+}

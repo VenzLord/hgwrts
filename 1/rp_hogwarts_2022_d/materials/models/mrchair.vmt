@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mrchair"
+	"$bumpmap" "models/MrChair_norm"
+	"$model" "1"
+}

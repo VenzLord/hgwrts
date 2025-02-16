@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/models/hogwarts/etc/hwm_spindletx"
+	"$bumpmap" "shystudios/models/hogwarts/etc/hwm_spindletx_nrm"
+	"$surfaceprop" "Wood_Solid"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/models/hogwarts/etc/hwm_nc1_beamtx"
+	"$surfaceprop" "Wood_Solid"
+}

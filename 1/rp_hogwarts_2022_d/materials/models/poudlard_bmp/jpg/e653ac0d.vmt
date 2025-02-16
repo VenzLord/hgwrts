@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\poudlard_bmp\jpg\e653ac0d"
+	$cloakpassenabled 1
+	$cloakfactor 1
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/LS/LS_BLACKMARBLE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c-3836_-6239_7364"
+	}
+}

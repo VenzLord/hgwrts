@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_hogwarts_evorz_v1/nature/water_coast02_-1165_2482_6908.vmt"
+	"insert"
+	{
+		"$waterdepth"		"769"
+	}
+}

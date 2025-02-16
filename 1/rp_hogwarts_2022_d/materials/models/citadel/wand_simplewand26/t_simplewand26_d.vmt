@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/citadel/wand_simplewand26/T_SimpleWand26_D"
+	"$bumpmap" "models/citadel/wand_simplewand26/T_SimpleWand26_N"
+
+	"$phong" "1"
+		
+	"$phongexponent" "0"
+	"$phongalbedotint" "1"
+	"$phongboost" "0" 
+	"$phongfresnelranges"	"[10 12 30]"
+}

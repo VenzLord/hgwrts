@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "shystudios/hgs/architecture/hgs_roof"
+	"$bumpmap" "shystudios/hgs/architecture/hgs_roof_ssbump"
+	"$surfaceprop" "Brick"
+	"$ssbump"		1
+	"$SSBumpMathFix"		1
+	"$reflectivity"	 "[.2 .2 .2]"
+	"%keywords" "hgs"
+	//"$detail" "shystudios/hgs/detail/small_perlin"
+	//"$detailscale" 5
+	//"$detailblendmode" 0
+	//"$detailblendfactor" 0.5
+}

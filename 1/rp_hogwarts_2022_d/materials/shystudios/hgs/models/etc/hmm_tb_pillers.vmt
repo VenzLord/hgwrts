@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "shystudios/hgs/models/etc/hmm_tb_pillers"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.2 0.2 0.2]"
+}

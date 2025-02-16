@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\poudlard_bmp\jpg\ec12364f"
+	$bumpmap "models/poudlard_bmp/jpg/5b8cf309"
+	$model	1
+
+}

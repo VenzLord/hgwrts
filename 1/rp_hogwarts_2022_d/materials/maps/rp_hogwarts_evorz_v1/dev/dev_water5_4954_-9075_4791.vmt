@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER5.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hogwarts_evorz_v1/c4954_-9075_4791"
+		"Proxies"
+		{
+		}
+	}
+}

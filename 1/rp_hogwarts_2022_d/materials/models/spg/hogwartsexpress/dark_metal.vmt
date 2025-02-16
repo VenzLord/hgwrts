@@ -1,0 +1,56 @@
+// *******************************************************************************************************************************************************
+//    @package:    materials
+//
+//    @author:        https://steamcommunity.com/profiles/76561198072997489/
+//
+//    @company:    SkyPhoenix Gaming
+//
+//    @website:    https://skyphoenixgaming.com/
+//
+//
+//     Copyright (c) 2019 SkyPhoenixGaming -- All Rights Reserved
+// 
+//     Attribution-NonCommercial-NoDerivs 
+//     CC BY-NC-ND
+//    
+//    THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS 
+//    PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER
+//    APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR 
+//    COPYRIGHT LAW IS PROHIBITED.
+//
+//    BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND 
+//    BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A 
+//    CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR 
+//    ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+//
+//    This file may be downloaded and utilized only on authorized servers granted by the author. It may not be
+//    modified in any way without explicit permission, nor may it be utilized in a commercial environment outside of the 
+//    authorized servers approved by the author.
+//
+//    Failure to comply with the license herein will result in DMCA takedown notices being issued to your server host, 
+//    Valve Software and the Steam Workshop ( collectively 'the Workshop' )
+//
+//    Only the @authors listed within this notice shall be authorized to redistribute and/or approve redistribution of this file.
+//
+// *******************************************************************************************************************************************************
+
+
+VertexLitGeneric
+{
+	$basetexture "models/spg/hogwartsexpress/metal_black_d"
+	$bumpmap "models/spg/hogwartsexpress/metal_black_n"
+
+	$nocull 1
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.01 0.01 0.01]"
+	$envmapsaturation 0
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[0.07 0.07 0.07]"
+	$phongexponent 2
+	$phongboost 0.24
+
+	$color2 "[0.54 0.54 0.54]"
+}

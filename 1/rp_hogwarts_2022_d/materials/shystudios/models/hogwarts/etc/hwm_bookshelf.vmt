@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "shystudios/hogwarts/hw_bookshelf"
+	"$bumpmap" "shystudios/hogwarts/hw_bookshelf_nrm"
+	"$surfaceprop" "Wood_Solid"
+	"%keywords" "wood"
+	//"$envmap" "env_cubemap"
+	//"$nodiffusebumplighting"	"1"
+	//"$normalmapalphaenvmapmask"	"1"
+	//"$envmaptint"	"[0.2 0.2 0.2]"
+}
